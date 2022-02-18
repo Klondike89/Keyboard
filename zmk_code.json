@@ -1,0 +1,48 @@
+{
+    "Symbols":{
+        "EXCLIMATION":"EXCL",
+        "AT SIGN":"AT",
+        "HASH/POUND":"HASH",
+        "DOLLAR":"DLLR",
+        "PERCENT":"PRCNT",
+        "CARET":"CARET",
+        "AMPERSAND": "AMPS",
+        "ASTERISK\STAR": "STAR",
+        "LEFT PARENTHESIS": "LPAR",
+        "RIGHT PARENTHESIS": "RPAR",
+        "EQUAL": "EQUAL",
+        "PLUS": "PLUS",
+        "MINUS": "MINUS",
+        "UNDERSCORE": "UNDER",
+        "FORWARD SLASH": "FSLH",
+        "QUESTION MARK": "QMARK",
+        "BACK SLASH": "BSLH",
+        "PIPE": "PIPE",
+        "SEMICOLON": "SEMI",
+        "COLON": "COLON",
+        "APOSTROPHE": "SQT",
+        "DOUBLE QUOTE": "DQT",
+        "COMMA": "COMMA",
+        "LESS THAN": "LT",
+        "PERIOD": "DOT",
+        "GRATER THAN": "GT",
+        "LEFT BRACKET": "LBRT",
+        "LEFT BRACE": "LBRC",
+        "RIGHT BRACKET": "RBRT",
+        "RIGHT BRACE": "RBRC",
+        "GRAVE ACCENT": "GRAVE",
+        "TILDE": "TILDE"
+    },
+
+
+    "Control_Whitespaec":{
+        "ESCAPE": "ESC",
+        "RETURN": "RET",
+        "SPACE": "SPACE",
+        "TAB": "TAB",
+        "BACKSPACE": "BSPC",
+        "DELETE": "DEL",
+        "INSERT": "INS"
+    }
+}   
+
